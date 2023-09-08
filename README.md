@@ -2,7 +2,7 @@
 ##
 <div align="center">
   <a href="https://github.com/FilipeMuliterno">
-  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FilipeMuliterno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilipeMuliterno&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
